@@ -1,0 +1,2 @@
+Diese Anwendung mit Java Version 17 verwenden.
+Zur Kontrolle kann "mnv -version" oder ".\mvnw -version" verwendet werden
