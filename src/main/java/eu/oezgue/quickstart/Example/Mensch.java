@@ -1,5 +1,8 @@
 package eu.oezgue.quickstart.Example;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Mensch {
 
     Student student;
