@@ -1,10 +1,11 @@
 package eu.oezgue.quickstart.Example;
 
 public class Mensch {
+
     Student student;
 
-    public Mensch (){
-        this.student = new Student("Patrick");
+    public Mensch (Student student){
+        this.student = student;
     }
 
 
